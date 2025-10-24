@@ -56,7 +56,7 @@ to predict the final innings score.
 
 ## ✍️ Author
 Developed by a Computer Science Engineering student focusing on practical ML applications in sports analytics.
-
+[Ritik Sharma]
 ---
 
 Feel free to ask if you want me to generate a detailed academic report version too!
